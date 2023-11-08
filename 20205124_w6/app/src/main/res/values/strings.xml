@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidW6_1</string>
+    <string name="xu_t_cho_b_n">Đề xuất</string>
+    <string name="ng_d_ng_tr_ph">Top tuần</string>
+    <string name="tr_ch_i">Top tháng</string>
+    <string name="gi_o_d_c">Gợi ý</string>
+</resources>
